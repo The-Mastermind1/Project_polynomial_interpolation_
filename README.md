@@ -1,2 +1,2 @@
-# Project_polyonomial_interpolation
+# Project_polynomial_interpolation
 THIS PROJECT USES POLYNOMIAL INTERPOLATION IN ORDER TO APPROACH A FUNCTION F(X) IN AN INTERVAL:[a,b]
