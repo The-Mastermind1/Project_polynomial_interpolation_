@@ -23,9 +23,9 @@ int main() {
 	}
 	
 	std::vector<std::vector<long double>>matrix(dimerish.size());
-	for (int i = 0; i < dimerish.size(); i++) {
-	 	for (int j = 0; j < dimerish.size(); j++) {
-		  matrix[i].push_back(funcöi(dimerish, dimerish[i], j));
+	for (size_t  i = 0; i < dimerish.size(); i++) {
+	 	for (size_t j = 0; j < dimerish.size(); j++) {
+		  matrix[i].push_back(funcÃ¶i(dimerish, dimerish[i], j));
 
 		}
 	}
